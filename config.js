@@ -54,7 +54,7 @@ exports.autoReloginDelay = 60 * 1000;
 * Rooms to join
 */
 
-exports.rooms = ['masteryuniversity'];
+exports.rooms = ['masteryuniversity', 'theshadeleague'];
 
 /*
 * exports.rooms = 'all'; //For joining all rooms
@@ -78,7 +78,10 @@ exports.initCmds = ['|/avatar 110']; // Other commands (avatar, blockchallenges,
 */
 
 exports.exceptions = {
-	 'shadesofsteel': true
+	 'shadesofsteel': true,
+          'htaras': true,
+	  'shadesteaky': true,
+	  'shadestriky': true
 };
 
 /*
