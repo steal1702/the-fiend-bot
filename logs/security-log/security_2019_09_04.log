@@ -1,0 +1,232 @@
+[11:41:16] Connected to server oppai.azure.lol:80 (azure)
+[11:41:16] Bot nickname has changed to: Guest 10272 [guest]
+[11:41:18] Bot nickname has changed to: The Fiend Bot
+[11:41:19] Joined room: masteryuniversity [chat]
+[11:53:02] Connected to server oppai.azure.lol:80 (azure)
+[11:53:02] Bot nickname has changed to: Guest 10286 [guest]
+[11:53:04] Bot nickname has changed to: The Fiend Bot
+[11:53:05] Joined room: masteryuniversity [chat]
+[11:53:53] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[11:57:35] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:03:01] Disconnected from server
+[12:03:12] Connected to server oppai.azure.lol:80 (azure)
+[12:03:13] Bot nickname has changed to: Guest 10299 [guest]
+[12:03:14] Bot nickname has changed to: The Fiend Bot
+[12:03:19] Joined room: masteryuniversity [chat]
+[12:07:01] Disconnected from server
+[12:07:12] Connected to server oppai.azure.lol:80 (azure)
+[12:07:12] Bot nickname has changed to: Guest 10304 [guest]
+[12:07:14] Bot nickname has changed to: The Fiend Bot
+[12:07:15] Joined room: masteryuniversity [chat]
+[12:11:01] Disconnected from server
+[12:11:12] Connected to server oppai.azure.lol:80 (azure)
+[12:11:12] Bot nickname has changed to: Guest 10306 [guest]
+[12:11:14] Bot nickname has changed to: The Fiend Bot
+[12:11:16] Joined room: masteryuniversity [chat]
+[12:15:01] Disconnected from server
+[12:15:13] Connected to server oppai.azure.lol:80 (azure)
+[12:15:13] Bot nickname has changed to: Guest 10312 [guest]
+[12:15:15] Bot nickname has changed to: The Fiend Bot
+[12:15:16] Joined room: masteryuniversity [chat]
+[12:21:01] Disconnected from server
+[12:21:12] Connected to server oppai.azure.lol:80 (azure)
+[12:21:12] Bot nickname has changed to: Guest 10317 [guest]
+[12:21:14] Bot nickname has changed to: The Fiend Bot
+[12:21:15] Joined room: masteryuniversity [chat]
+[12:25:01] Disconnected from server
+[12:25:12] Connected to server oppai.azure.lol:80 (azure)
+[12:25:12] Bot nickname has changed to: Guest 10320 [guest]
+[12:25:14] Bot nickname has changed to: The Fiend Bot
+[12:25:15] Joined room: masteryuniversity [chat]
+[12:29:01] Disconnected from server
+[12:29:14] Connected to server oppai.azure.lol:80 (azure)
+[12:29:15] Bot nickname has changed to: Guest 10325 [guest]
+[12:29:17] Bot nickname has changed to: The Fiend Bot
+[12:29:17] Joined room: masteryuniversity [chat]
+[12:32:36] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:33:00] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:35:41] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:38:37] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:41:01] Disconnected from server
+[12:41:15] Connected to server oppai.azure.lol:80 (azure)
+[12:41:15] Bot nickname has changed to: Guest 10335 [guest]
+[12:41:17] Bot nickname has changed to: The Fiend Bot
+[12:41:18] Joined room: masteryuniversity [chat]
+[12:44:01] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:47:01] Disconnected from server
+[12:47:12] Connected to server oppai.azure.lol:80 (azure)
+[12:47:12] Bot nickname has changed to: Guest 10340 [guest]
+[12:47:14] Bot nickname has changed to: The Fiend Bot
+[12:47:14] Joined room: masteryuniversity [chat]
+[12:50:09] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:50:12] CRASH: this.reply is not a function
+TypeError: this.reply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:183:23
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:172:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[12:53:01] Disconnected from server
+[12:53:12] Connected to server oppai.azure.lol:80 (azure)
+[12:53:12] Bot nickname has changed to: Guest 10346 [guest]
+[12:53:14] Bot nickname has changed to: The Fiend Bot
+[12:53:16] Joined room: masteryuniversity [chat]
+[12:53:17] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:53:20] CRASH: this.reply is not a function
+TypeError: this.reply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:183:23
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:172:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[12:53:35] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:54:32] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[12:54:54] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[16:46:20] Disconnected from server
+[17:43:14] Connected to server oppai.azure.lol:80 (azure)
+[17:43:14] Bot nickname has changed to: Guest 10583 [guest]
+[17:43:17] Bot nickname has changed to: The Fiend Bot
+[17:43:17] Joined room: masteryuniversity [chat]
+[17:44:34] Disconnected from server
+[17:44:45] Connected to server oppai.azure.lol:80 (azure)
+[17:44:45] Bot nickname has changed to: Guest 10586 [guest]
+[17:44:47] Bot nickname has changed to: The Fiend Bot
+[17:44:47] Joined room: masteryuniversity [chat]
+[17:49:04] Disconnected from server
+[17:49:15] Connected to server oppai.azure.lol:80 (azure)
+[17:49:15] Bot nickname has changed to: Guest 10591 [guest]
+[17:49:17] Bot nickname has changed to: The Fiend Bot
+[17:49:19] Joined room: masteryuniversity [chat]
+[17:53:04] Disconnected from server
+[17:53:18] Connected to server oppai.azure.lol:80 (azure)
+[17:53:18] Bot nickname has changed to: Guest 10595 [guest]
+[17:53:20] Bot nickname has changed to: The Fiend Bot
+[17:53:21] Joined room: masteryuniversity [chat]
+[17:55:28] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[17:56:07] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:03:53] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:04:04] CRASH: this.reply is not a function
+TypeError: this.reply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:196:20
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:175:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:04:38] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:04:40] CRASH: this.restrictReply is not a function
+TypeError: this.restrictReply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:196:20
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:175:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:06:07] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:06:09] CRASH: this.restrictReply is not a function
+TypeError: this.restrictReply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:196:20
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:175:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:07:03] CRASH: this.restrictReply is not a function
+TypeError: this.restrictReply is not a function
+    at F:\Mann\ecu\commands\base-basic.js:196:20
+    at IncomingMessage.<anonymous> (F:\Mann\ecu\commands\base-basic.js:175:22)
+    at IncomingMessage.emit (events.js:208:15)
+    at endReadableNT (_stream_readable.js:1154:12)
+    at processTicksAndRejections (internal/process/task_queues.js:77:11)
+[18:08:01] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:08:06] COMMAND CRASH: text is not defined
+cmd: rank | by: #Shades of Steel | room: masteryuniversity
+ReferenceError: text is not defined
+    at Context.rank (F:\Mann\ecu\commands\base-basic.js:200:55)
+    at Object.exports.parse (F:\Mann\ecu\command-parser.js:359:23)
+    at MyEmitter.<anonymous> (F:\Mann\ecu\index.js:398:16)
+    at MyEmitter.emit (events.js:203:13)
+    at Client.receiveLine (F:\Mann\ecu\showdown-client.js:499:18)
+    at Client.receiveMsg (F:\Mann\ecu\showdown-client.js:400:11)
+    at Client.receive (F:\Mann\ecu\showdown-client.js:375:12)
+    at WebSocketConnection.<anonymous> (F:\Mann\ecu\showdown-client.js:161:11)
+    at WebSocketConnection.emit (events.js:203:13)
+    at WebSocketConnection.processFrame (F:\Mann\ecu\node_modules\websocket\lib\WebSocketConnection.js:554:26)
+[18:09:21] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:11:09] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:12:28] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:12:29] COMMAND CRASH: omg is not defined
+cmd: rank | by: #Shades of Steel | room: masteryuniversity
+ReferenceError: omg is not defined
+    at Context.rank (F:\Mann\ecu\commands\base-basic.js:201:22)
+    at Object.exports.parse (F:\Mann\ecu\command-parser.js:359:23)
+    at MyEmitter.<anonymous> (F:\Mann\ecu\index.js:398:16)
+    at MyEmitter.emit (events.js:203:13)
+    at Client.receiveLine (F:\Mann\ecu\showdown-client.js:499:18)
+    at Client.receiveMsg (F:\Mann\ecu\showdown-client.js:400:11)
+    at Client.receive (F:\Mann\ecu\showdown-client.js:375:12)
+    at WebSocketConnection.<anonymous> (F:\Mann\ecu\showdown-client.js:161:11)
+    at WebSocketConnection.emit (events.js:203:13)
+    at WebSocketConnection.processFrame (F:\Mann\ecu\node_modules\websocket\lib\WebSocketConnection.js:554:26)
+[18:13:03] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:27:26] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:27:28] COMMAND CRASH: fetch is not defined
+cmd: rank | by: #Shades of Steel | room: masteryuniversity
+ReferenceError: fetch is not defined
+    at Context.rank (F:\Mann\ecu\commands\base-basic.js:172:4)
+    at Object.exports.parse (F:\Mann\ecu\command-parser.js:359:23)
+    at MyEmitter.<anonymous> (F:\Mann\ecu\index.js:398:16)
+    at MyEmitter.emit (events.js:203:13)
+    at Client.receiveLine (F:\Mann\ecu\showdown-client.js:499:18)
+    at Client.receiveMsg (F:\Mann\ecu\showdown-client.js:400:11)
+    at Client.receive (F:\Mann\ecu\showdown-client.js:375:12)
+    at WebSocketConnection.<anonymous> (F:\Mann\ecu\showdown-client.js:161:11)
+    at WebSocketConnection.emit (events.js:203:13)
+    at WebSocketConnection.processFrame (F:\Mann\ecu\node_modules\websocket\lib\WebSocketConnection.js:554:26)
+[18:31:37] Connected to server oppai.azure.lol:80 (azure)
+[18:31:37] Bot nickname has changed to: Guest 10623 [guest]
+[18:31:40] Bot nickname has changed to: The Fiend Bot
+[18:31:40] Joined room: masteryuniversity [chat]
+[18:31:47] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:32:35] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:34:08] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:34:55] Disconnected from server
+[18:35:01] Connected to server oppai.azure.lol:80 (azure)
+[18:35:01] Bot nickname has changed to: Guest 10629 [guest]
+[18:35:03] Bot nickname has changed to: The Fiend Bot
+[18:35:03] Joined room: masteryuniversity [chat]
+[18:35:49] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:37:06] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:37:29] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:37:52] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:42:16] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:43:52] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[18:47:01] Disconnected from server
+[18:47:11] Connected to server oppai.azure.lol:80 (azure)
+[18:47:11] Bot nickname has changed to: Guest 10638 [guest]
+[18:47:13] Bot nickname has changed to: The Fiend Bot
+[18:47:16] Joined room: masteryuniversity [chat]
+[18:51:04] Disconnected from server
+[18:51:15] Connected to server oppai.azure.lol:80 (azure)
+[18:51:15] Bot nickname has changed to: Guest 10641 [guest]
+[18:51:17] Bot nickname has changed to: The Fiend Bot
+[18:51:17] Joined room: masteryuniversity [chat]
+[18:55:04] Disconnected from server
+[18:55:15] Connected to server oppai.azure.lol:80 (azure)
+[18:55:15] Bot nickname has changed to: Guest 10646 [guest]
+[18:55:17] Bot nickname has changed to: The Fiend Bot
+[18:55:17] Joined room: masteryuniversity [chat]
+[18:59:04] Disconnected from server
+[18:59:15] Connected to server oppai.azure.lol:80 (azure)
+[18:59:15] Bot nickname has changed to: Guest 10650 [guest]
+[18:59:17] Bot nickname has changed to: The Fiend Bot
+[18:59:17] Joined room: masteryuniversity [chat]
+[19:03:04] Disconnected from server
+[19:03:15] Connected to server oppai.azure.lol:80 (azure)
+[19:03:15] Bot nickname has changed to: Guest 10652 [guest]
+[19:03:17] Bot nickname has changed to: The Fiend Bot
+[19:03:19] Joined room: masteryuniversity [chat]
+[19:07:04] Disconnected from server
+[19:07:15] Connected to server oppai.azure.lol:80 (azure)
+[19:07:15] Bot nickname has changed to: Guest 10654 [guest]
+[19:07:17] Bot nickname has changed to: The Fiend Bot
+[19:07:17] Joined room: masteryuniversity [chat]
+[19:10:30] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
+[19:11:54] [masteryuniversity] [#Shades of Steel] [reload] Command: .reload 
