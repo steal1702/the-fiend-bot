@@ -256,15 +256,15 @@ exports.moderation = {
 * Battles
 */
 
-exports.aceptAll = false;
+exports.aceptAll = true;
 
 exports.maxBattles = 1;
 
-exports.initBattleMsg = ['gl hf'];
+exports.initBattleMsg = ['Good Luck'];
 
-exports.winmsg = ['GG', 'g_g'];
+exports.winmsg = ['Good Game', 'gg'];
 
-exports.losemsg = ['gg', 'wp'];
+exports.losemsg = ['gg', 'well played'];
 
 exports.battleMessages = {
 	/* Examples of battle messages:
